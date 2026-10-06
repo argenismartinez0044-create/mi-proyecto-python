@@ -70,4 +70,3 @@ if st.session_state.inventario:
         st.rerun()
 else:
     st.info("No hay productos en el inventario.")
-```
